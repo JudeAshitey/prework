@@ -1,0 +1,31 @@
+nav {
+    position:fixed;
+    border: solid;
+}
+
+
+p{
+    color:yellow;
+
+}
+h2{
+    background-color: aqua;
+}
+
+
+h3 {
+    background-color: aquamarine;
+}
+body {
+    background-color: #ccffff;
+    font-family: sans-serif;
+}
+#q1s {
+    color: blue;
+    background-color: aquamarine;
+}
+
+
+p {
+    color: black;
+}
